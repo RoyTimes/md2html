@@ -1,0 +1,14 @@
+{
+  "name": "md2html",
+  "version": "1.0.0",
+  "description": "simple converter from markdown to HTML",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Song Zhou",
+  "license": "MIT",
+  "dependencies": {
+    "remarkable": "^1.6.2"
+  }
+}
